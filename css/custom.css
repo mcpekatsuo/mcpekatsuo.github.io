@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+footer {
+	text-align: center;
+	margin-top: 50px;
+	padding: 20px;
+	background: #FFF;
+	border: solid thin;
+	border-color: #CCC;
+}
+
+
+.leather{
+	background-color: #795548;
+	border: solid thin;
+	border-color: #CCC;
+}
+.iron{
+	background-color: #9E9E9E;
+	border: solid thin;
+	border-color: #CCC;
+}
+.gold{
+	background-color: #F9A825;
+	border: solid thin;
+	border-color: #CCC;
+}
+.dia{
+	background-color: #00BCD4;
+	border: solid thin;
+	border-color: #CCC;      
+}
+.nothing{
+	border: solid thin;
+	border-color: #CCC;
+	background-color: #F5F5F5;
+}
+.table{
+	border-bottom: solid thin;
+	border-color: #CCC;
+}
+
+.ad{
+	text-align: center;
+	align-items: center;
+}
